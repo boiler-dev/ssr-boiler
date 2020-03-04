@@ -7,7 +7,7 @@ import loaded from "../src/loaded"
 import logger from "../src/logger"
 import render from "../src/render"
 import ssr from "../src/ssr"
-import tinyId from "../src/tiny-id"
+import tinyId from "../src/tinyId"
 
 beforeEach(() => loaded.reset())
 
